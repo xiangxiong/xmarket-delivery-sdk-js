@@ -1,0 +1,23 @@
+{
+  "name": "xmarket-delivery-sdk-js",
+  "version": "1.0.0",
+  "description": "Xmarket Delivery SDK for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangxiong/xmarket-delivery-sdk-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangxiong/xmarket-delivery-sdk-js/issues"
+  },
+  "homepage": "https://github.com/xiangxiong/xmarket-delivery-sdk-js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
